@@ -1,0 +1,74 @@
+{% extends 'mainpage/base.html' %}
+{% load staticfiles %}
+{% block css %}
+    <link rel="stylesheet" href="{% static 'css/index.css' %}" type="text/css">
+
+
+{% endblock %}
+
+{% block about %}
+    <div id="about" class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <p class="text-justify">EYESORE is a magazine about buildings, streets, places and spaces. It started with friends talking about their cities.
+                    Growing up in London it’s difficult to ignore how the city has changed. This is the case around the world; buildings
+                    rise and towers fall, windows open and doors close.</p>
+                <p class="text-justify">EYESORE is not about the appearance of the built environment but
+                    the political, cultural and personal consequences that are created by our experience of it. EYESORE is more than the ugly.</p>
+                <p class="text-justify">Subscribe to emails from us here:</p>
+            </div>
+        </div>
+        <div class="row">
+
+            <form class="form-cont">
+                <div class="input-field col-md-4 col-md-offset-4">
+                    <input id="icon_prefix" type="text" class="email-input validate">
+                    <label for="icon_prefix"><i class="fa fa-envelope"></i>         Email</label>
+                    <button type="button" class="animated fadeIn hidden subscribe btn">Subscribe</button>
+                </div>
+            </form>
+        </div>
+
+    </div>
+{% endblock %}
+
+{% block video %}
+    <div id="video" class="container-fluid">
+        <div class="row">
+            <div>
+                <video class="eyesorevid" width="100%" height="500px" type="video/mp4" onended="videoControls.endedHandler()" autoplay>
+                    <source src={% static "videos/eyesoremaking.mp4" %}>
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block gallery %}
+    <div id="gallery-header" class="gallery-header-wrapper">
+        <h1 class="bold-700 heading">Gallery</h1>
+    </div>
+    <div id="gallery" class="container-fluid">
+        <div class="row">
+            <div class="col-md-4">
+                <img src="{% static 'images/pipes.jpg' %}" class="materialboxed responsive-img" alt="">
+            </div>
+            <div class="col-md-4">
+                <img src="{% static 'images/powerplant.jpg' %}" class="materialboxed responsive-img" alt="">
+            </div>
+            <div class="col-md-4">
+                <img src="{% static 'images/streetcorner.jpg' %}" class="materialboxed responsive-img" alt="">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 col-md-offset-2">
+                <img src="{% static 'images/urbanight.jpg' %}" class="materialboxed responsive-img" alt="">
+            </div>
+            <div class="col-md-4">
+                <img src="{% static 'images/edges.jpg' %}" class="materialboxed responsive-img" alt="">
+            </div>
+        </div>
+    </div>
+{% endblock %}

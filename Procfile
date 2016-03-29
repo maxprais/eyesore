@@ -1,0 +1,1 @@
+web: gunicorn eyesoreonline.wsgi --log-file -

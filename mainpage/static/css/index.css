@@ -1,0 +1,89 @@
+.form-cont{
+    text-align: center;
+}
+.subscribe {
+    background-color: black !important;
+    color: white;
+    display: inline-block;
+}
+.btn:focus{
+    opacity: 0.7;
+}
+.nav{
+    z-index: 3;
+}
+.btn:hover{
+    opacity: 0.7;
+}
+.hidden{
+    display: none;
+}
+.heading{
+    margin-top: 70px;
+}
+.email-input{
+    display: inline-block;
+}
+.input-field{
+    display: inline-block;
+    text-align: center;
+}
+.compResponse{
+    font-size: 1em;
+    /*display: block;*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+}
+
+#about{
+    height: 410px;
+    margin-top: 200px;
+    margin-bottom: 60px;
+}
+#video{
+    height: auto;
+}
+.eyesorevid{
+    width: 100%;
+    height: auto;
+}
+
+.input-field label {
+     color: #000 !important;
+   }
+   /* label focus color */
+   .input-field input[type=text]:focus + label {
+     color: #000 !important;
+   }
+   /* label underline focus color */
+   .input-field input[type=text]:focus {
+     border-bottom: 1px solid #000 !important;
+     box-shadow: 0 1px 0 0 #000 !important;
+   }
+   /* valid color */
+   .input-field input[type=text].valid {
+     border-bottom: 1px solid #000 !important;
+     box-shadow: 0 1px 0 0 #000 !important;
+   }
+   /* invalid color */
+   .input-field input[type=text].invalid {
+     border-bottom: 1px solid #000;
+     box-shadow: 0 1px 0 0 #000;
+   }
+   /* icon prefix focus color */
+   .input-field .prefix.active {
+     color: #000 !important;
+   }
+
+#gallery{
+    height: 500px;
+    width: 100%;
+    margin-top: 80px;
+}
+.gallery-img{
+    height: auto;
+    width: auto;
+}
+.gallery-header-wrapper{
+    text-align: center;
+}
