@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Heroku Django Starter Template
 
 An utterly fantastic project starter template for Django 1.9.
@@ -41,3 +42,6 @@ See also, a [ready-made application](https://github.com/heroku/python-getting-st
 - [Gunicorn](https://warehouse.python.org/project/gunicorn/)
 - [WhiteNoise](https://warehouse.python.org/project/whitenoise/)
 - [dj-database-url](https://warehouse.python.org/project/dj-database-url/)
+=======
+# eyesore
+>>>>>>> 3e68f29de3bf03cce3961f54ce5a96568d2f38fd
