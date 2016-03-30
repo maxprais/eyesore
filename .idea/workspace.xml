@@ -1,7 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7990d44d-1eb0-4550-8c1a-79df4b5ec3f6" name="Default" comment="" />
+    <list default="true" id="7990d44d-1eb0-4550-8c1a-79df4b5ec3f6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/eyesoreonline.iml" afterPath="$PROJECT_DIR$/.idea/eyesoreonline.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/forms.py" afterPath="$PROJECT_DIR$/mainpage/forms.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/css/base.css" afterPath="$PROJECT_DIR$/mainpage/static/css/base.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/mainpage/static/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/css/index.css" afterPath="$PROJECT_DIR$/mainpage/static/css/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/css/mdb.min.css" afterPath="$PROJECT_DIR$/mainpage/static/css/mdb.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/mainpage/static/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/index.js" afterPath="$PROJECT_DIR$/mainpage/static/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/jquery.min.js" afterPath="$PROJECT_DIR$/mainpage/static/js/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/mdb.js" afterPath="$PROJECT_DIR$/mainpage/static/js/mdb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/buttons.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/buttons.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/card-reveal.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/card-reveal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/character-counter.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/character-counter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/collapsible.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/collapsible.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/dropdown.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/dropdown.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/forms-basic.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/forms-basic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/forms.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/forms.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/global.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/global.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/hammer.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/hammer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/jquery-easing.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/jquery-easing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/jquery-hammer.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/jquery-hammer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/lean-modal.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/lean-modal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/material-box.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/material-box.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/morphing-icons.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/morphing-icons.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/panel-popuot.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/panel-popuot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/picker-date.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/picker-date.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/picker.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/picker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/progress-bar.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/progress-bar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/rotating-cards.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/rotating-cards.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/scrolling-nav.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/scrolling-nav.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/sidenav.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/sidenav.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/smooth-scroll.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/smooth-scroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/toasts.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/toasts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/velocity.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/velocity.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/video-bg.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/video-bg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/waves-effect.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/waves-effect.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/wow.js" afterPath="$PROJECT_DIR$/mainpage/static/js/modules (optional)/wow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_animations.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_animations.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_buttons.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_buttons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_cards.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_cards.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_carousel.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_carousel.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_color.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_color.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_dropdown.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_dropdown.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_forms-basic.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_forms-basic.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_global.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_global.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_helpers.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_helpers.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_hover-effects.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_hover-effects.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_mixins.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_navbar.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_navbar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_normalize.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_normalize.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_pagination.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_pagination.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_panel.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_panel.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_parallax.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_parallax.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_prefixer.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_prefixer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_roboto.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_roboto.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_scrollspy.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_scrollspy.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_sections.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_sections.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_shadows.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_shadows.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_tooltip.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_tooltip.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_typography.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_variables.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_video-background.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_video-background.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_waves.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/free/_waves.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_blog.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_blog.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_buttons-pro.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_buttons-pro.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_cards-pro.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_cards-pro.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_carousel-pro.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_carousel-pro.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_double-navbar.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_double-navbar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_ecommerce.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_ecommerce.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_forms.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_forms.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_galleries.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_galleries.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_landing-page.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_landing-page.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_materialbox.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_materialbox.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_modals.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_modals.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_panels-pro.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_panels-pro.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_progress-bar.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_progress-bar.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_sideNav.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_sideNav.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_social-buttons.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_social-buttons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_tabs.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_tabs.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_toastr.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/_toastr.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/date_picker/_default.date.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/date_picker/_default.date.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/date_picker/_default.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/date_picker/_default.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/date_picker/_default.time.scss" afterPath="$PROJECT_DIR$/mainpage/static/sass/mdb/pro/date_picker/_default.time.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/templates/mainpage/base.html" afterPath="$PROJECT_DIR$/mainpage/templates/mainpage/base.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/templates/mainpage/index.html" afterPath="$PROJECT_DIR$/mainpage/templates/mainpage/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mainpage/urls.py" afterPath="$PROJECT_DIR$/mainpage/urls.py" />
+    </list>
     <ignored path="eyesoreonline.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -16,18 +108,23 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="eyesoreonline" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eyesoreonline/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41105354">
-              <caret line="79" column="49" selection-start-line="79" selection-start-column="49" selection-end-line="79" selection-end-column="49" />
-              <folding />
+            <state relative-caret-position="165">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="e#332#341#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,24 +132,27 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mainpage/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.6666667">
+            <state relative-caret-position="270">
               <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mainpage/static/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+            <state relative-caret-position="283">
+              <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -68,10 +168,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="710" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -99,6 +198,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -187,13 +287,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../motionize/comments" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager" selected="Django server.eyesoreonline">
@@ -247,30 +346,53 @@
       <item index="0" class="java.lang.String" itemvalue="Django server.eyesoreonline" />
     </list>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7990d44d-1eb0-4550-8c1a-79df4b5ec3f6" name="Default" comment="" />
       <created>1459246068852</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1459246068852</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="0" y="23" width="1280" height="710" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20546874" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -280,9 +402,19 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/eyesoreonline/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#332#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mainpage/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6666667">
+        <state relative-caret-position="270">
           <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
           <folding />
         </state>
@@ -290,7 +422,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mainpage/static/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="1290">
           <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
           <folding />
         </state>
@@ -298,8 +430,131 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eyesoreonline/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41105354">
-          <caret line="79" column="49" selection-start-line="79" selection-start-column="49" selection-end-line="79" selection-end-column="49" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#332#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpage/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpage/static/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eyesoreonline/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#332#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpage/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpage/static/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eyesoreonline/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#332#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpage/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpage/static/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eyesoreonline/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#332#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpage/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpage/static/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpage/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../motionize/comments/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/eyesoreonline/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#332#341#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainpage/static/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
           <folding />
         </state>
       </provider>
